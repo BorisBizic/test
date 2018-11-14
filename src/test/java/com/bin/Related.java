@@ -4,8 +4,8 @@ package com.bin;
 import java.util.List;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
-import com.test.Superior;
-import com.test.TeamLeader_;
+import com.bin.Superior;
+import com.bin.TeamLeader_;
 
 public class Related {
 

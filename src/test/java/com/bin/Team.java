@@ -3,7 +3,7 @@ package com.bin;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
-import com.test.TeamLeader;
+import com.bin.TeamLeader;
 
 public class Team {
 

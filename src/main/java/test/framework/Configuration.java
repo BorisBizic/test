@@ -1,4 +1,4 @@
-package com.test.framework;
+package test.framework;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
