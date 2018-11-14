@@ -4,9 +4,9 @@ package com.bin;
 import java.util.List;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
-import com.test.Position_;
-import com.test.Team;
-import com.test.UserRole;
+import com.bin.Position_;
+import com.bin.Team;
+import com.bin.UserRole;
 
 public class Position {
 
